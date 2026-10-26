@@ -22,6 +22,9 @@ Prints text to the console using `System.out.println()`.
 ### 2. PersonalIntroduction
 Uses `String` and `int` variables to store and display information.
 
+### 3. VariableUpdate
+Demonstrates how to change the value stored in a variable and print the updated value.
+
 ## Progress
 I am documenting my learning process and adding programs as I develop my understanding of new concepts.
 
