@@ -14,8 +14,16 @@ I am learning Java independently and using this repository to document my progre
 ## Learning Resource
 - [Coddy](https://coddy.tech/) — Java programming practice
 
+## Programs
+
+### 1. HelloWorld
+Prints text to the console using `System.out.println()`.
+
+### 2. PersonalIntroduction
+Uses `String` and `int` variables to store and display information.
+
 ## Progress
-I will add programs and exercises as I learn new concepts, using this repository to track my development and apply what I have learned.
+I am documenting my learning process and adding programs as I develop my understanding of new concepts.
 
 ## Future Goals
 Build practical programming projects that explore applications in cybersecurity and artificial intelligence.
