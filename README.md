@@ -22,6 +22,7 @@ I am learning Java independently and using this repository to document my progre
 4. **BasicCalculator.java** - Uses arithmetic operators to perform basic calculations.
 5. **AgeChecker.java** - Uses `if` and `else` statements to make decisions based on a condition.
 6. **GradeChecker.java** - Uses if, else if and else to classify a mark.
+7. **MultiplicationTable.java** - Uses a for loop to print a multiplication table.
 
 ## Progress
 I am documenting my learning process and adding programs as I develop my understanding of new concepts.
