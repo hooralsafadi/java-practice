@@ -1,6 +1,5 @@
-# java-practice
-Beginner Java programs and exercises as I learn programming
 # Java Practice
+Beginner Java programs and exercises as I learn programming
 
 ## About
 This repository documents my progress as I learn Java independently.
