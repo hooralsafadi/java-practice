@@ -23,6 +23,8 @@ I am learning Java independently and using this repository to document my progre
 5. **AgeChecker.java** - Uses `if` and `else` statements to make decisions based on a condition.
 6. **GradeChecker.java** - Uses if, else if and else to classify a mark.
 7. **MultiplicationTable.java** - Uses a for loop to print a multiplication table.
+8. **NumberGuessingGame.java** - Uses user input, a while loop and conditional statements to create a number guessing game.
+9. **StudentGradeCalculator.java** - Accepts three marks, calculates their average and assigns a grade.
 
 ## Progress
 I am documenting my learning process and adding programs as I develop my understanding of new concepts.
