@@ -1,19 +1,21 @@
 # Java Practice
-Beginner Java programs and exercises as I learn programming
+
+A collection of Java programs and exercises created as I develop my programming skills.
 
 ## About
-This repository documents my progress as I learn Java independently.
+I am learning Java independently and using this repository to document my progress through practical coding exercises.
 
 ## Learning Goals
-- Build a strong foundation in Java
-- Practise writing and understanding code
-- Develop problem-solving skills
+- Develop a strong understanding of Java fundamentals
+- Practise writing, testing, and debugging code
+- Strengthen logical thinking and problem-solving skills
+- Apply programming concepts to practical problems
 
-## Learning Resources
-- Coddy Website
+## Learning Resource
+- [Coddy](https://coddy.tech/) — Java programming practice
 
 ## Progress
-I am using this repository to organise my practice programs and track my progress as I learn new concepts.
+I will add programs and exercises as I learn new concepts, using this repository to track my development and apply what I have learned.
 
 ## Future Goals
-I hope to use my programming skills to explore projects related to cybersecurity and artificial intelligence.
+Build practical programming projects that explore applications in cybersecurity and artificial intelligence.
