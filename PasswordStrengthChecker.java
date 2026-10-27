@@ -68,11 +68,25 @@ public class PasswordStrengthChecker {
         } else {
             System.out.println("Strength: Strong");
         }
-        
+
         if (password.length() < 8) {
-            System.out.println("Weak password: use at least 8 characters.");
-        } else {
-            System.out.println("Password meets the minimum length requirement.");
+            System.out.println("Use at least 8 characters.");
+        }
+
+        if (!hasUppercase) {
+            System.out.println("Add an uppercase letter.");
+        }
+
+        if (!hasLowercase) {
+            System.out.println("Add a lowercase letter.");
+        }
+
+        if (!hasDigit) {
+            System.out.println("Add a number.");
+        }
+
+        if (!hasSpecial) {
+            System.out.println("Add a special character, such as ! or #.");
         }
 
         input.close();
