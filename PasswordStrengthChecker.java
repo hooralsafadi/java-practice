@@ -6,6 +6,10 @@ public class PasswordStrengthChecker {
 
         System.out.print("Enter a password to check: ");
         String password = input.nextLine();
+        boolean hasUppercase = false;
+        boolean hasLowercase = false;
+        boolean hasDigit = false;
+        boolean hasSpecial = false;
 
         if (password.length() < 8) {
             System.out.println("Weak password: use at least 8 characters.");
